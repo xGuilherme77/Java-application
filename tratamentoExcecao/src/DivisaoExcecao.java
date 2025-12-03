@@ -1,7 +1,7 @@
 
 /**
- * classe criada para tratr as excecoes para a classe diviisao
- * @author Guilherme
+ * classe criada para tratar as excecoes para a classe divisao
+ * @author Guilherme A.
  */
 
 public class DivisaoExcecao extends Exception {
@@ -18,3 +18,4 @@ public class DivisaoExcecao extends Exception {
         super("o valor digitado para A nao pode ser inferior a 0(Zero)");
     }
 }
+
