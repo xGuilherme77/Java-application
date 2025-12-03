@@ -2,8 +2,7 @@
 import javax.swing.JOptionPane;
 
 /**
- *
- * @author Guilherm e A.
+ * @author Guilherme A.
  */
 public class Padaria {
 
@@ -40,3 +39,4 @@ public class Padaria {
         return pao;
     }
 }
+
